@@ -1,2 +1,3 @@
 # mongodb-m101js
-MongoDB dor Node.JS developers
+MongoDB for Node.JS developers
+https://university.mongodb.com/courses/M101JS/about
