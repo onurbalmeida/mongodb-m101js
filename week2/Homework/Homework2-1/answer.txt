@@ -1,0 +1,3 @@
+Query: db.data.find({ "Wind Direction" : { "$gt" : 180, "$lt" : 360 } }}.sort({$
+
+Answer: New Mexico
